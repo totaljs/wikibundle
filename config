@@ -1,0 +1,9 @@
+name                          : Total.js Wiki
+version                       : 2.0.0
+author                        : Peter Širka
+
+manager-url                   : /admin
+manager-cookie                : __manager
+
+// Super users in the form "name:password"
+manager-superadmin  (Array)   : ['admin:admin']
